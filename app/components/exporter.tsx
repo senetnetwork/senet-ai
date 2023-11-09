@@ -516,7 +516,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}>SENET AI</div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              github.com/senetnetwork/senet-ai
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
